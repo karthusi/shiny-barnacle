@@ -1,2 +1,2 @@
 # shiny-barnacle
-just another repository
+just a repository
